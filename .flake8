@@ -1,0 +1,4 @@
+[flake8]
+exclude = .git*, .gitignore*, __pycache__, ./venv
+
+max-complexity = 2
