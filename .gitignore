@@ -5,6 +5,7 @@ __pycache__/
 
 venv
 .idea
+static
 # C extensions
 *.so
 
